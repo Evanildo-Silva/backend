@@ -43,7 +43,7 @@
   <table>
   <tr>
     <td align="center"><a href="https://www.mongodb.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px;" alt="logo axios"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65px;" alt="mongodb"/>
       <br />
       <sub>
         <b>MongoDB</b>
